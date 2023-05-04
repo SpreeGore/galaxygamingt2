@@ -1,11 +1,11 @@
 .container {
   margin-top: 96px;
-  display: flex;
-  flex-direction: column;
+  display: inline-block;
+  flex-direction: row wrap;
   align-items: center;
   justify-content: center;
   width: 100%;
-  position: absolute;
+  position: static;
   padding: 0 24px;
 }
 
