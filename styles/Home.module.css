@@ -1,6 +1,6 @@
 .container {
   margin-top: 96px;
-  display: grid;
+  display: inline-block;
   flex-direction: row wrap;
   align-items: flex-start;
   justify-content: center;
@@ -35,12 +35,12 @@
   width: 450px;
   max-width: 95vw;
   display: inline-flex;
-  flex-direction: row;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   gap: 2%;
   margin-top: 28px;
-  flex-wrap: inline-flex;
+  flex-wrap: wrap;
 }
 
 .nftBox {
