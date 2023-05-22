@@ -1,6 +1,6 @@
 .container {
   margin-top: 96px;
-  display: flex;
+  display: inline-block;
   flex-direction: row wrap;
   align-items: flex-start;
   justify-content: center;
