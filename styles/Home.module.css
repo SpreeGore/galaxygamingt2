@@ -40,11 +40,11 @@
   justify-content: center;
   gap: 2%;
   margin-top: 28px;
-  flex-wrap: flex;
+  flex-wrap: inline-flex;
 }
 
 .nftBox {
-  border-radius: 100px;
+  border-radius: 50px;
   border: 1px solid #ccc;
   width: 100%;
   min-height: 50px;
