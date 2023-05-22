@@ -152,7 +152,7 @@
 /* Screen less than 630, then hide .center */
 @media only screen and (max-width: 630px) {
   .center {
-    display: inline-flex;
+    display: grid;
   }
 }
 
